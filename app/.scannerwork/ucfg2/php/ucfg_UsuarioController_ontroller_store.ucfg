@@ -1,0 +1,144 @@
+
+-app\http\controllers\usuariocontroller::storeb
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php1 1("1*•
+1b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(z
+x
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php1 1(
+%1"__entrypointñì
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php1 1(#
+$requestilluminate\http\request".illuminate\http\request::__sonar_inject_symbol*A
+
+__unknown_file (%
+#
+$requestilluminate\http\request2__sonar_inject_symbolº
+π
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php1 1(
+
+$request"__id*A
+
+__unknown_file (%
+#
+$requestilluminate\http\requesttr
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(	
+%2"$Array¸
+˘
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(	
+%3"__mapSet*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+nombre*7
+
+__unknown_file (
+required|string|max:255Û
+
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(	
+%4"__mapSet*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+edad*0
+
+__unknown_file (
+required|integerÉ
+Ä
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(	
+%5"__mapSet*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+correo*>
+
+__unknown_file (" 
+required|email|unique:usuarios≈¬
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php3 7(
+
+%6*(
+
+__unknown_file (
+
+
+$request*"
+
+__unknown_file (
+
+%22validateÀ
+»
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php9 9(
+%7"__id*V
+
+__unknown_file (:*8(
+&app\http\controllers\usuariocontroller"
+
+usuarioDAOúô
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php9" 9(1
+%8*(
+
+__unknown_file (
+
+
+$request2allΩ∫
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php9 9(2
+%9*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+
+%82createè
+å
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php; ;(0
+%10"*illuminate\support\facades\redirect::route*C
+
+__unknown_file ('"%
+#illuminate\support\facades\redirect*.
+
+__unknown_file (
+usuarios.indexÄ˝
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php; ;(a
+%11*#
+
+__unknown_file (
+
+%10*'
+
+__unknown_file (	
+success*<
+
+__unknown_file ( 
+Usuario creado exitosamente.2with"m
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php; ;(b
+
+%11:â
+b
+XD:\react\Faber\pruebas_tecnicas\Solti2\Solati\app\Http\Controllers\UsuarioController.php1 1(*#
+$requestilluminate\http\requestB*(
+&app\http\controllers\usuariocontrollerH
